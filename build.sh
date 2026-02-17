@@ -2,6 +2,7 @@
 
 mkdir -p build/linux
 mkdir -p build/windows
+mkdir -p build/freeBSD
 
 set GOOS=linux
 set GOARCH=amd64
